@@ -1,0 +1,21 @@
+{
+  "name": "gaelikart",
+  "version": "1.0.0",
+  "description": "An Online E-Commerce site for selling and buying liquors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh Venkatraman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "csurf": "^1.11.0",
+    "express": "^4.17.3",
+    "frameguard": "^4.0.0",
+    "helmet": "^5.0.2",
+    "request": "^2.88.2",
+    "require": "^0.4.4",
+    "superagent": "^7.1.3"
+  }
+}
